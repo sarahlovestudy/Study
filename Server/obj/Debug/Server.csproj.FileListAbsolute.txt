@@ -1,0 +1,12 @@
+G:\Socket\Simple-Multithreaded-TCP-GUI-Chat-master\Bin\Server\Debug\Server.exe.config
+G:\Socket\Simple-Multithreaded-TCP-GUI-Chat-master\Bin\Server\Debug\Server.exe
+G:\Socket\Simple-Multithreaded-TCP-GUI-Chat-master\Bin\Server\Debug\Server.pdb
+G:\Socket\Simple-Multithreaded-TCP-GUI-Chat-master\Server\obj\Debug\Server.csprojAssemblyReference.cache
+G:\Socket\Simple-Multithreaded-TCP-GUI-Chat-master\Server\obj\Debug\Networking.Server.Window.ClientManagerWindow.resources
+G:\Socket\Simple-Multithreaded-TCP-GUI-Chat-master\Server\obj\Debug\Networking.Server.Window.ServerWindow.resources
+G:\Socket\Simple-Multithreaded-TCP-GUI-Chat-master\Server\obj\Debug\Networking.Server.Properties.Resources.resources
+G:\Socket\Simple-Multithreaded-TCP-GUI-Chat-master\Server\obj\Debug\Server.csproj.GenerateResource.cache
+G:\Socket\Simple-Multithreaded-TCP-GUI-Chat-master\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+G:\Socket\Simple-Multithreaded-TCP-GUI-Chat-master\Server\obj\Debug\Server.csproj.CopyComplete
+G:\Socket\Simple-Multithreaded-TCP-GUI-Chat-master\Server\obj\Debug\Server.exe
+G:\Socket\Simple-Multithreaded-TCP-GUI-Chat-master\Server\obj\Debug\Server.pdb

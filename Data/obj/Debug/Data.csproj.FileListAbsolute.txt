@@ -1,0 +1,6 @@
+G:\Socket\Simple-Multithreaded-TCP-GUI-Chat-master\Bin\Data\Debug\ServerData.dll
+G:\Socket\Simple-Multithreaded-TCP-GUI-Chat-master\Bin\Data\Debug\ServerData.pdb
+G:\Socket\Simple-Multithreaded-TCP-GUI-Chat-master\Data\obj\Debug\Data.csprojAssemblyReference.cache
+G:\Socket\Simple-Multithreaded-TCP-GUI-Chat-master\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+G:\Socket\Simple-Multithreaded-TCP-GUI-Chat-master\Data\obj\Debug\ServerData.dll
+G:\Socket\Simple-Multithreaded-TCP-GUI-Chat-master\Data\obj\Debug\ServerData.pdb

@@ -1,0 +1,6 @@
+G:\Socket\Simple-Multithreaded-TCP-GUI-Chat-master\Bin\NetworkLib\Debug\NetworkLib.dll
+G:\Socket\Simple-Multithreaded-TCP-GUI-Chat-master\Bin\NetworkLib\Debug\NetworkLib.pdb
+G:\Socket\Simple-Multithreaded-TCP-GUI-Chat-master\NetworkLib\obj\Debug\NetworkLib.csprojAssemblyReference.cache
+G:\Socket\Simple-Multithreaded-TCP-GUI-Chat-master\NetworkLib\obj\Debug\NetworkLib.csproj.CoreCompileInputs.cache
+G:\Socket\Simple-Multithreaded-TCP-GUI-Chat-master\NetworkLib\obj\Debug\NetworkLib.dll
+G:\Socket\Simple-Multithreaded-TCP-GUI-Chat-master\NetworkLib\obj\Debug\NetworkLib.pdb
