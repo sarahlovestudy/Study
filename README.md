@@ -1,4 +1,5 @@
-# Simple-Multithreaded-TCP-GUI-Chat
+# Copy Code...
+#Simple-Multithreaded-TCP-GUI-Chat
 
 Simple-Multithreaded-Network-Chat is a small simple chat appliction written in C# .net that is easy to understand and anyone can build on or learn from as it is not intended to be used for non development purposes.
 
